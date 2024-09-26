@@ -4,7 +4,7 @@ Showcase recipes
 
 ## Description
 
-Display recipes with HTML and css skills I learned form oding project foundations course
+Display recipes with HTML and css skills I learned form odin project foundations course
 
 ## Getting Started
 
